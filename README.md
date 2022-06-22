@@ -139,6 +139,10 @@ SciencePlots in Academic Papers
 
 The following papers use ``SciencePlots``:
 
+- F. van Donkelaar, O. Agertz, F. Renaud,
+, ["From giant clumps to clouds - II. The emergence of thick disc kinematics
+from the conditions of star formation in high redshift gas rich galaxies"]([https://doi.org/10.1016/j.sedgeo.2021.105980](https://academic.oup.com/mnras/article-abstract/512/3/3806/6547789?redirectedFrom=PDF)), *Monthly Notices of the Royal Astronomical Society*, vol. 512, pp. 3806–3814, May. 2022.
+
 - Y. Liu, X. Liu, Y. Sun, ["QGrain: An open-source and easy-to-use software for the comprehensive analysis of grain size distributions"](https://doi.org/10.1016/j.sedgeo.2021.105980), *Sedimentary Geology*, vol. 423, 105980, Aug. 2021.
 
 - J. Garrett, and E. Tong, ["A Dispersion-Compensated Algorithm for the Analysis of Electromagnetic Waveguides,"](https://ieeexplore.ieee.org/document/9447194) *IEEE Signal Process. Lett.*, vol. 28, pp. 1175-1179, Jun. 2021.
